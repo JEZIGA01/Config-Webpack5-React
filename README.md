@@ -4,8 +4,8 @@
 
 <li>npm : https://www.npmjs.com/ </li>
 <li>Webpack 5 : https://webpack.js.org/ </li>
-<li>Babel : https://babeljs.io/</li>
-<li>React.js: https://reactjs.org/ </li>
+<li>Babeljs : https://babeljs.io/</li>
+<li>Reactjs: https://reactjs.org/ </li>
 
 
 # 🧰 Ferramentas :
