@@ -1,6 +1,6 @@
 
 
-# 🗂 Alguns sites que ajudaram na configuração do projeto
+# 🗂 Sites que ajudaram na configuração do projeto
 
 <li>npm : https://www.npmjs.com/ </li>
 <li>Webpack 5 : https://webpack.js.org/ </li>
