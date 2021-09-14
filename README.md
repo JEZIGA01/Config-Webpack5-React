@@ -12,9 +12,9 @@
 <li> Node (LTS): https://nodejs.org/en/download/  </li> 
 
 # 🔨 Iniciando o projeto no CMD
-
-npm build
-npm start
+<b>
+npm build<br>
+npm start</b>
 
 
 
