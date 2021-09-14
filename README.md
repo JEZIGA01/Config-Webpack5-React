@@ -61,26 +61,20 @@ ReactDOM.render(<App />, document.getElementById("root"));
 Crie um arquivo <b> webpack.config.js</b> na raiz do seu projeto ele vai ser responsável por toda configuração do Webpack, depois iremos definir a entrada da seguinte forma:<br>
 ![image](https://user-images.githubusercontent.com/73039194/133171660-6f8020ea-f6db-4244-a10b-ae4d228e5877.png)
 <br>
-const path = require('path')
+<br>
 
-module.exports = {
-  entry: {
-    main: path.resolve(__dirname, "./src/index.js"),
-    hot: 'webpack/hot/dev-server.js',
-    client: 'webpack-dev-server/client/index.js?hot=true&live-reload=true',
-  },
-}
+Vamos criar um <b>template.html</b> dentro de <br>src/html :<br>
+
+![image](https://user-images.githubusercontent.com/73039194/133172470-a97053b0-7974-445b-84cd-439c59371825.png)
+<br>
+
+Dentro do  <b>template.html</b> vamos colocar uma estrutura basica do html , digite  "!" (sem aspas) e aperte enter:<br>
+
+
+![image](https://user-images.githubusercontent.com/73039194/133172539-05eb75fa-6a17-4bfc-a3d7-86f0808a37c1.png)
 
 <br>
-Agora a saida desta maneira <br>
 
-  output: {
-    path: path.resolve(__dirname, "./dist"),
-    filename: "[name].bundle.js",
-  },
-  ![image](https://user-images.githubusercontent.com/73039194/133172141-89347c9f-016a-4cfc-8af4-e27d24cc482c.png)
-
-<br>
 
 
 
