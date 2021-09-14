@@ -11,7 +11,7 @@
 <li> Visual Studio Code : https://code.visualstudio.com/Download </li>
 <li> Node (LTS): https://nodejs.org/en/download/  </li> 
 
-# 🔨 Iniciando o projeto
+# 🔨 Iniciando o projeto no CMD
 
 npm build
 npm start
