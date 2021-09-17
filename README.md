@@ -6,7 +6,6 @@
 <li>Webpack 5 : https://webpack.js.org/ </li>
 <li>Babeljs : https://babeljs.io/</li>
 <li>Reactjs: https://reactjs.org/ </li>
-<li>Typescript: https://www.typescriptlang.org/</li>
 
 
 # 🧰 Ferramentas :
